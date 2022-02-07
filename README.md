@@ -1,4 +1,4 @@
-# TinDog-just-for-show-website
+# TinDog
 
 The idea is similar to Tinder, but this app i.e. TinDog doesn't actually exist 😅
-It's just my first website, so it's basically just for show 😂
+It's just a sample website I created, so it's basically just for show 😂
